@@ -11,11 +11,13 @@ Generate LlamaIndex apps with a command line tool, create-llama
 ## Steps
 1. `npx create-llama@latest`
 2. Follow the steps (provide API key in terminal, recommended acc to LlamaIndex)
-3. Upload files inside data folder (bydefault there is one pdf)
-4. Get the openai api key from this [link](https://platform.openai.com/api-keys)
-3. Cd to app, run `npm run dev`
+3. Get the openai api key from this [link](https://platform.openai.com/api-keys)
+4. Upload files inside data folder (bydefault there is one pdf)
+5. Cd to app, run `npm run dev`
 
 
 ## Deployment
 - https://vercel.com/login (Login to Vercel)
 - Authorize / Configure github repo and deploy.
+
+### Enjoy 😎
