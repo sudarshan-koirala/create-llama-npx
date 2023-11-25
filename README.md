@@ -1,6 +1,8 @@
 # create-llama-npx
 Generate LlamaIndex apps with a command line tool, create-llama
 
+## [Youtube video covering this repository](https://youtu.be/D8PM89Xry7Q)
+
 [LlamaIndex Blogpost](https://blog.llamaindex.ai/create-llama-a-command-line-tool-to-generate-llamaindex-apps-8f7683021191)  
 [Guide to deploying create-llama apps](https://blog.llamaindex.ai/shipping-your-retrieval-augmented-generation-app-to-production-with-create-llama-7bbe43b6287d)  
 [npm create-llama](https://www.npmjs.com/package/create-llama)
